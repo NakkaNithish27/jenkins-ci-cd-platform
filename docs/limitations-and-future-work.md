@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md) | [Architecture](architecture.md) | [Implementation](implementation.md) | [Validation](validation.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2223962-47a9-4057-8496-f63676a92b3f" />
+
 ---
 
 ## 1. Purpose
