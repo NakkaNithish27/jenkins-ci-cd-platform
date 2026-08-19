@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md) | [Architecture](architecture.md) | [Implementation](implementation.md) | [Limitations & Future Work](limitations-and-future-work.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f3a6a64-9f1f-4db5-85e1-12e61e2b3b7f" />
+
 ---
 
 ## 1. Validation Overview
