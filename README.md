@@ -2,6 +2,8 @@
 
 > A Jenkins-based CI/CD implementation that automates the journey from source code through build, testing, quality validation, artifact management, containerization, and deployment to Amazon ECS.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/549010e5-541d-4bc6-998b-6ef77002c01b" />
+
 ---
 
 ## Overview
